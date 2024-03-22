@@ -1,0 +1,105 @@
+[33mcommit 8851b1d7a35c988e8fd30109c013e9c49e7ee1bc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: olivia <11.oly.adame@gmail.com>
+Date:   Mon Mar 18 14:43:02 2024 -0600
+
+    corn correction
+
+[33mcommit d075b4d3b069754f840cd7e016a8c8e8cbf0f175[m
+Author: olivia <11.oly.adame@gmail.com>
+Date:   Sun Mar 17 21:02:20 2024 -0600
+
+    corn correction
+
+[33mcommit 1d6aae33f5c0207c232c9f8de082cd44f96644d1[m
+Author: olivia <11.oly.adame@gmail.com>
+Date:   Sun Mar 17 20:46:59 2024 -0600
+
+    corn correction
+
+[33mcommit 2faac2f578d81d8eb2875353c2ca5d3ce599a939[m
+Merge: a4bc92a a06d8b8
+Author: olivia <11.oly.adame@gmail.com>
+Date:   Sun Mar 17 20:34:05 2024 -0600
+
+    Merge branch 'main' of https://github.com/Olivia-oss/shortener_api
+
+[33mcommit a4bc92ab7e9487c49a6b7936fe5fbf9a81fc60f7[m
+Author: olivia <11.oly.adame@gmail.com>
+Date:   Sun Mar 17 20:33:36 2024 -0600
+
+    corn correction
+
+[33mcommit a06d8b897ccb61415ec19ba866f1b1fe62006ca8[m
+Author: Olivia-oss <69321843+Olivia-oss@users.noreply.github.com>
+Date:   Wed Mar 13 22:55:55 2024 -0600
+
+    Update .env
+
+[33mcommit ce9d513f6276ba2678d9b4c0213dcccde40e9fb2[m
+Author: olivia <11.oly.adame@gmail.com>
+Date:   Wed Mar 13 21:06:42 2024 -0600
+
+    change corns
+
+[33mcommit 0e32c36452e5bc085ae58a9be4da3a75409ee041[m
+Author: olivia <11.oly.adame@gmail.com>
+Date:   Wed Mar 13 20:12:37 2024 -0600
+
+    change devepdencies
+
+[33mcommit 65d13aa4eac95b58efefe4b7b82cee8d7fe21679[m
+Author: olivia <11.oly.adame@gmail.com>
+Date:   Wed Mar 13 19:57:32 2024 -0600
+
+    change port
+
+[33mcommit f7d53de112f9d1a9b484129e3d3ae077d50e8031[m
+Author: olivia <11.oly.adame@gmail.com>
+Date:   Wed Mar 13 17:35:49 2024 -0600
+
+    add url enable
+
+[33mcommit 9f35679c7e1de9acff35980aaecb67b43ea35380[m
+Merge: 4475018 e5ffbf9
+Author: olivia <11.oly.adame@gmail.com>
+Date:   Wed Mar 13 17:29:44 2024 -0600
+
+    Merge branch 'main' of https://github.com/Olivia-oss/shortener_api
+
+[33mcommit 4475018b94468d0c9a8b3bba8572c0b29d725ea0[m
+Author: olivia <11.oly.adame@gmail.com>
+Date:   Wed Mar 13 17:28:35 2024 -0600
+
+    add url enable
+
+[33mcommit e5ffbf9abe2106b031dc1205f56a1728ce16a27e[m
+Author: Olivia-oss <69321843+Olivia-oss@users.noreply.github.com>
+Date:   Wed Mar 13 16:29:56 2024 -0600
+
+    Update .env
+
+[33mcommit 49cc6cef70fe5108e6c95eba48bb65dc6f57fa11[m
+Author: Olivia-oss <69321843+Olivia-oss@users.noreply.github.com>
+Date:   Wed Mar 13 16:25:11 2024 -0600
+
+    Update .env
+    
+    SPECIFICATIONS
+
+[33mcommit 428985f704bb2a57bfc2fd8f7e7a586aa0aaa58a[m
+Author: Olivia-oss <69321843+Olivia-oss@users.noreply.github.com>
+Date:   Wed Mar 13 16:19:39 2024 -0600
+
+    Add files via upload
+
+[33mcommit d53da6de6fbc99dbaeb9439cb7acd7708eb521c1[m
+Author: olivia <11.oly.adame@gmail.com>
+Date:   Wed Mar 13 16:17:37 2024 -0600
+
+    connect mongodb
+
+[33mcommit 033c3863daeb48d641694aea84b960e1e7659914[m
+Author: olivia <11.oly.adame@gmail.com>
+Date:   Wed Mar 13 15:56:41 2024 -0600
+
+    project upload
