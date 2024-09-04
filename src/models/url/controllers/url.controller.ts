@@ -2,17 +2,23 @@ import { Body, Controller, Get, Param, Post } from '@nestjs/common';
 import { UrlService } from '../services/url.service';
 import { generatorUrl } from '../utils/generator-url';
 import { CreateUrl } from '../dtos/create_url.dto';
+import { CreateUrlSimple } from '../dtos/create_url_simple';
 
 @Controller('urls')
 export class UrlController {
   constructor(private urlService: UrlService) {}
 
   @Post()
-  async createUrl(@Body() url: CreateUrl) {
+  async createUrl(@Body() urlNew: CreateUrlSimple) {
     try {
-      url.shortUrl = generatorUrl(6);
-      url.visits = 0;
-      return this.urlService.createUrlShortener(url);
+      const shortUrl = generatorUrl(6);
+      const createUrl: CreateUrl = {
+        url: urlNew.url,
+        shortUrl,
+        visits: 0,
+      };
+
+      return this.urlService.createUrlShortener(createUrl);
     } catch (error) {
       throw 'Failed to create url shortener';
     }
