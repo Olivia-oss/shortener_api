@@ -31,7 +31,8 @@
     "class-validator": "^0.14.1",
     "mongoose": "^8.2.1",
     "reflect-metadata": "^0.2.0",
-    "rxjs": "^7.8.1"
+    "rxjs": "^7.8.1",
+    "short-url": "file:"
   },
   "devDependencies": {
     "@nestjs/schematics": "^10.0.0",

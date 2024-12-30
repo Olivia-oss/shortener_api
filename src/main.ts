@@ -4,6 +4,7 @@ import { ValidationPipe } from '@nestjs/common';
 import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger';
 
 async function bootstrap() {
+  //const baseURL = 'http://localhost:5173';
   const baseURL = 'https://leafy-tanuki-49e258.netlify.app';
 
   const app = await NestFactory.create(AppModule);
